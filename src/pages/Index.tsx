@@ -65,12 +65,12 @@ const Index = () => {
               </a>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/owais303/" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="w-5 h-5" />
               </a>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <a href="mailto:your.email@example.com">
+              <a href="mailto:owaisk30383@gmail.com">
                 <Mail className="w-5 h-5" />
               </a>
             </Button>
